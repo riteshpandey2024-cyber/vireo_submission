@@ -1,0 +1,23 @@
+shift,site,team,tier,tickets,breaches,breach_rate,median_response_min,carryover_breaches
+Morning,Indore,Chat Frontline,1,856,350,0.4088785046728972,20.0,304
+Morning,Bengaluru,Chat Frontline,1,840,327,0.3892857142857143,25.0,295
+Morning,Bengaluru,Email Frontline,1,1051,296,0.28163653663177923,293.0,257
+Morning,Bengaluru,Billing,1,662,217,0.32779456193353473,87.0,193
+Morning,Bengaluru,Returns Desk,1,606,179,0.2953795379537954,81.5,154
+Morning,Indore,Logistics,1,558,176,0.3154121863799283,99.0,153
+Morning,Bengaluru,Logistics,1,573,168,0.2931937172774869,101.0,143
+Morning,Bengaluru,Escalations & Warranty,2,461,152,0.3297180043383948,115.0,137
+Morning,Indore,Billing,1,365,132,0.36164383561643837,93.0,117
+Day,Bengaluru,Chat Frontline,1,911,75,0.08232711306256861,6.0,17
+Day,Bengaluru,Email Frontline,1,722,56,0.07756232686980609,143.5,47
+Day,Bengaluru,Billing,1,639,54,0.08450704225352113,23.0,26
+Day,Bengaluru,Returns Desk,1,481,52,0.10810810810810811,22.0,30
+Day,Bengaluru,Logistics,1,564,50,0.08865248226950355,29.0,31
+Day,Indore,Chat Frontline,1,317,33,0.10410094637223975,5.0,10
+Day,Indore,Logistics,1,320,27,0.084375,30.0,11
+Day,Bengaluru,Voice Frontline,1,423,23,0.054373522458628844,37.0,11
+Morning,Bengaluru,Voice Frontline,1,292,21,0.07191780821917808,39.0,17
+Night,Indore,Chat Frontline,1,162,19,0.11728395061728394,71.5,15
+Day,Bengaluru,Escalations & Warranty,2,230,19,0.08260869565217391,15.0,10
+Night,Indore,Email Frontline,1,106,10,0.09433962264150944,43.0,6
+Day,Indore,Escalations & Warranty,2,61,4,0.06557377049180328,26.0,3

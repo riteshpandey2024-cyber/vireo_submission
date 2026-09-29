@@ -1,0 +1,8 @@
+check,passed,value
+Unique analytical ticket IDs,True,11200
+All customer IDs valid,True,0
+All product SKUs valid,True,0
+Every ticket has one roster assignment,True,11200
+No negative first-response durations,True,0
+Duplicate ticket IDs with SLA disagreement,True,0
+Missing first-response timestamps,True,0

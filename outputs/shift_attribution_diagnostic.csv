@@ -1,0 +1,11 @@
+period_group,shift,in_resolver_shift,tickets,breaches,breach_rate
+Earlier,Day,False,187,35,0.18716577540106952
+Earlier,Day,True,734,35,0.047683923705722074
+Earlier,Morning,False,412,72,0.17475728155339806
+Earlier,Morning,True,665,40,0.06015037593984962
+Earlier,Night,False,85,21,0.24705882352941178
+Earlier,Night,True,183,8,0.04371584699453552
+Last 12 months (Jul 2025-Jun 2026),Day,False,771,161,0.20881971465629054
+Last 12 months (Jul 2025-Jun 2026),Day,True,2976,162,0.05443548387096774
+Last 12 months (Jul 2025-Jun 2026),Morning,False,2692,1698,0.6307578008915304
+Last 12 months (Jul 2025-Jun 2026),Morning,True,2495,208,0.08336673346693386
